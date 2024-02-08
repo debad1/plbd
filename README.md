@@ -37,9 +37,6 @@ Le projet Smart Ramp offre une solution efficace pour réduire la congestion rou
 ## Conclusion Générale
 Le Projet Learning By Doing nous a permis de relever le défi de développer une solution innovante pour améliorer la mobilité urbaine en Afrique. Le projet Smart Ramp offre une approche prometteuse pour réduire la congestion routière et améliorer la qualité de vie des citoyens. Malgré les défis rencontrés, l'équipe a réussi à développer un prototype fonctionnel et une application web opérationnelle.
 
-## Annexes
-Les codes de simulation Tinkercad et du prototype physique sont disponibles dans les annexes. Les références utilisées pour ce projet sont également fournies.
-
 ---
 
-Vous pouvez retrouver l'intégralité du projet, y compris les codes et les références, dans les annexes ci-dessous.
+Vous pouvez retrouver l'intégralité du projet, y compris les codes et les références, dans le rapport ci-dessous.
